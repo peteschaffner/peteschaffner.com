@@ -404,21 +404,31 @@ footer a, footer a:hover {
     content: " ";
 }
 
-#resume h3 ~ p {
-    font-style: italic;
+#resume header {
+    text-align: left;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: baseline;
+    justify-content: space-between;
     margin: 0;
 }
 
-#resume .timespan {
-    display: inline-block;
-    font-family: "Concourse C4", sans-serif;
-    text-transform: lowercase;
-    color: rgba(var(--color-text), .5);
-    font-variant-numeric: oldstyle-nums;
-    font-style: normal;
+#resume header time {
+    font-size: 1.0rem;
 }
 
-#resume p:not(.timespan) + p {
+#resume header h2, #resume header h3, #resume header h4 {
+    margin: 0;
+}
+
+#resume header h4 {
+    width: 100%;
+    font-size: 1.0rem;
+    font-weight: normal;
+    font-style: italic;
+}
+
+#resume p + p {
     font-style: normal;
 }
 

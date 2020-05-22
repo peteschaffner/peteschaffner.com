@@ -19,9 +19,12 @@ title: Résumé
 - macOS, iOS, iPadOS, Unix
 
 ## Experience
-### Google
-<p class="timespan">2014–Present</p>
-Chrome iOS design lead
+
+<header>
+	<h3>Google</h3>
+	<time datetime="P5Y">2015-present</time>
+	<h4>Chrome iOS design lead</h4>
+</header>
 
 - Lead functional and aesthetic redesign of the entire app
 - Helped with migration to MVC and Auto Layout in order to facilitate design handoff
@@ -38,17 +41,21 @@ Chrome iOS design lead
 - Created a set of internal Framer.js modules for rapid prototyping
 - Worked independently in France with my manager located in the US
 
-### RadBlock
-<p class="timespan">2020–Present</p>
-Designer & developer
+<header>
+	<h3>RadBlock</h3>
+	<time datetime="P1Y">2020-present</time>
+	<h4>Designer & developer</h4>
+</header>
 
 - Designed logo, app/toolbar/settings icons, extension popover and some settings UI
 - Designed and developed [website](https://radblock.app)
 - Helped develop extension popover and settings window
 
-### Warewolf
-<p class="timespan">2018–2019</p>
-Owner, designer & developer
+<header>
+	<h3>Warewolf</h3>
+	<time datetime="P1Y">2018-2019</time>
+	<h4>Owner, designer & developer</h4>
+</header>
 
 - Took over ownership of [Espresso.app](https://espressoapp.com), a web development IDE
 - Shipped a couple minor updates
@@ -56,9 +63,11 @@ Owner, designer & developer
 - Created a multi-channel distribution build system
 - Created a licensing and transactional/marketing email infrastructure
 
-### Evergig
-<p class="timespan">2013–2014</p>
-Web lead, developer & designer
+<header>
+	<h3>Evergig</h3>
+	<time datetime="P1Y">2013-2014</time>
+	<h4>Web lead, developer & designer</h4>
+</header>
 
 - Managed and lead the web app team (remotely at first, then in person)
 - Was the sole front-end developer
@@ -71,16 +80,20 @@ Web lead, developer & designer
 - Managed owner expectations and acted as a designer/developer proxy
 - Wrote and proofread marketing copy
 
-### Conceited Software
-<p class="timespan">2013–2014</p>
-Designer
+<header>
+	<h3>Conceited Software</h3>
+	<time datetime="P1Y">2013-2014</time>
+	<h4>Designer</h4>
+</header>
 
 - Designed [version 3 of Linkinus.app](/resume-references/linkinus3)
 - Created a new company logo and began a rebrand
 
-### IronGate Creative
-<p class="timespan">2010–2013</p>
-Designer & developer
+<header>
+	<h3>IronGate Creative</h3>
+	<time datetime="P3Y">2010-2013</time>
+	<h4>Designer & developer</h4>
+</header>
 
 - Owned design and implementation of all web projects
 - Defined our workflow and standard for web projects
@@ -95,9 +108,7 @@ Designer & developer
 - Provided IT support to clients
 - Adopted company IT and networking responsibilities
 
-
-### Freelance & open source<a id="freelance"></a>
-<p class="timespan">2010–Present</p>
+## Freelance & open source
 
 - Maintained a personal fork of TextMate.app [focused on improved UI/UX](/words/shades-of-grey)
 - Contributed to [Vico.app](https://github.com/vicoapp/vico) design and product direction
@@ -108,9 +119,12 @@ Designer & developer
 - Created diagrams and illustrations for the [Explore Theatre](https://www.pearson.com/us/higher-education/product/O-Hara-Explore-Theatre-Standalone-Access-Card/9780205028726.html) interactive textbook
 
 ## Education
-### College of Fine Arts, Ball State University
-<p class="timespan">2006–2010</p>
-Bachelor of Fine Arts, Visual Communication
+
+<header>
+	<h3>College of Fine Arts, Ball State University</h3>
+	<time datetime="P4Y">2006-2010</time>
+	<h4>Bachelor of Fine Arts, Visual Communication</h4>
+</header>
 
 - 3.8 GPA
 - Dean's List for 8 consecutive semesters
